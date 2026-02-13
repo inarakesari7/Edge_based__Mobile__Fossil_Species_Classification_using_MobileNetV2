@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Edge-based Fossil Species Classification using MobileNetV2"
+message: "If you use this repository, please cite the associated research paper."
+type: software
+
+authors:
+  - family-names: Mohod
+    given-names: Anurag
+  - family-names: Narakesari
+    given-names: Ishaan
+  - family-names: Gupta
+    given-names: Anshu
+
+date-released: 2026
+license: MIT
