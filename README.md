@@ -1,3 +1,4 @@
+MIT License
 # Edge-based Fossil Species Classification using MobileNetV2
 
 This repository contains the implementation and reproducibility resources for the research work:
